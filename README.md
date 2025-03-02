@@ -137,12 +137,12 @@ Databases & Cloud
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
+<!--
 <h2 align="left">🔝 Top Contributed Repo</h2>
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=saquib5005&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
-
+-->
 <!--
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
