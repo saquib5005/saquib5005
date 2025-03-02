@@ -3,6 +3,8 @@
 <h1 align="center">SAQUIB KHAN</h1>
 
 <h3 align="center">Passionate about Data Analysis, Machine Learning and GenAI.</h3>
+<br>
+
 
 <img align = "right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
